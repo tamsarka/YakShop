@@ -1,0 +1,17 @@
+<herd>
+		<labyak>
+			<name>Betty-1</name>
+			<age>4</age>
+			<sex>f</sex>
+		</labyak> 
+		<labyak>
+			<name>Betty-2</name>
+			<age>8</age>
+			<sex>f</sex>
+		</labyak>
+		<labyak>
+			<name>Betty-3</name>
+			<age>9.5</age>
+			<sex>f</sex>
+		</labyak>
+</herd>
